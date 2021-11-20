@@ -9,10 +9,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 const pengguna = [
   {
-    id: '1637386853970',
-    username: 'jagres',
-    email: 'agleopang@yahoo.com',
-    password: '$2b$10$vM53OmpHpld1dv3zANfXGuj1vDn4NBUL7tt5j9vUhNh2VcagrHJcS'
+    id: '1637396739799',
+    username: 'bouwie',
+    email: 'yogaagle321z@gmail.com',
+    password: '$2b$10$oyOQptYMOd/bNaERPLZNBOwjqXD5ug2tqpfS4wIuoC7VpljTjhkFy'//asd
   }
 ]
 
